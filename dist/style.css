@@ -1,0 +1,15 @@
+body{
+  background-color: #000;
+}
+#image{
+  height: auto;
+  max-width: 1080px;
+  display: block;  
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 15px;
+}
+#image:hover{
+  transition: 0.2s;
+  transform: scale(0.975);
+}
